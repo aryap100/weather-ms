@@ -1,6 +1,7 @@
 import socket
 import requests
 
+#method
 def get_weather_data(api_key, location):
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}&units=metric"
     response = requests.get(url)
