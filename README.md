@@ -13,3 +13,7 @@ After running these text should pop up in the console for a location, where a ci
 Communication Contract
 I am utilizing an API from the OpenWeatherMap to allow for the data to be collected. This is phenomenon that will not change 
 throughout the development of this microservice. 
+
+UML Diagram
+https://lucid.app/lucidchart/c759fdd9-a82b-4748-8572-80ab2a26d3ee/edit?invitationId=inv_95915977-714a-45db-a8af-f3fac67064e9
+
