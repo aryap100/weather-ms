@@ -1,6 +1,6 @@
 import socket
 
-#methods server
+#methods servers
 def fetch_weather(location):
     HOST = '127.0.0.1'
     PORT = 65432
